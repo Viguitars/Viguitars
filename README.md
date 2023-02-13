@@ -1,62 +1,27 @@
-<h1 align="left">Hi 👋, I'm Victor and I am interested in programming.</h1>
+# Hi, I'm Victor 👋
 
-<h3 align="left">
-  A future developer from Argentina who is currently learning autonomously and
-  practicing algorithms with different challenges.
-</h3>
+I'm a self-motivated future developer from Argentina who's passionate about programming. Currently, I'm focused on autonomous learning and honing my algorithmic problem-solving skills with various challenges.
 
-<h2 align="left">Languages and Tools learning:</h2>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://angular.io/assets/images/logos/angular/angular.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+## Skills
+
+### Programming Languages:
+
+- CSS
+- HTML
+- JavaScript
+
+### Tools & Technologies:
+
+- Git
+- GitHub
+- Visual Studio Code
+
+## Current Projects
+
+- [freeCodeCamp](https://github.com/Viguitars/freeCodeCamp): Practical courses in web programming and software development with a project-based learning approach.
+- [hackerRank](https://github.com/Viguitars/hackerRank): Programming challenges in JavaScript.
+
+## Contact
+
+- [Email](viguitars738@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-hugo-gomenza/)

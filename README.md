@@ -23,5 +23,5 @@ I'm a self-motivated future developer from Argentina who's passionate about prog
 
 ## Contact
 
-- [Email](viguitars738@gmail.com)
+- Email: viguitars738@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/v%C3%ADctor-hugo-gomenza/)

@@ -1,19 +1,25 @@
 # Hi, I'm Victor 👋
 
-I'm a self-motivated future developer from Argentina who's passionate about programming. Currently, I'm focused on autonomous learning and honing my algorithmic problem-solving skills with various challenges.
+I am a self-motivated aspiring developer from Argentina who is passionate about programming. Currently, my focus is on self-directed learning and honing my algorithmic problem-solving skills through various challenges. Additionally, I am in my second semester pursuing a degree as a University Technician at UTN - Regional Faculty Mendoza.
 
 ## Skills
 
 ### Programming Languages:
 
-- CSS
-- HTML
+- CSS3
+- HTML5
+- Java
 - JavaScript
+- MySQL
+- Python
 
 ### Tools & Technologies:
 
+- Figma
 - Git
 - GitHub
+- Jira
+- Trello
 - Visual Studio Code
 
 ## Current Projects

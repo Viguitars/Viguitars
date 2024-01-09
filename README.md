@@ -15,6 +15,7 @@ I am a self-motivated aspiring developer from Argentina who is passionate about 
 
 ### Tools & Technologies:
 
+- Big O Notation
 - Figma
 - Git
 - GitHub
